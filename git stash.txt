@@ -1,0 +1,2 @@
+git stash save -m 'stash demo'
+git stash pop 
